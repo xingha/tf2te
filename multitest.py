@@ -23,6 +23,7 @@ def cumoser(q):
         q.get()
         print("pasuesed",count)
         count += 1
+        print(count)
 
 
 def multiddd(q,number):
