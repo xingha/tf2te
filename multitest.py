@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 # Author : Mr Zhou
-# Date : 2019/09/10
+# Date : 2019/09/10 多进程 生产消费者模型
 
 from multiprocessing import Queue, Process
 import time
